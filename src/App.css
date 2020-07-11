@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+.red {
+  color: red;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.color{
+  color:black;
+}
+.background{
+  background-color: #cfcaeb;
+}
+.marginfirst{
+  margin-right: 5px;
+}
+.marginmiddle{
+  margin-left: 15px;
+}
+.margindob{
+  margin-right: 75px;
+}
+.margingender{
+  margin-right: 100px;
+}
+.marginorigin{
+  margin-left: 10px;
+}
+.marginemail{
+  margin-right: 15px;
+}
+.marginphone{
+  margin-left: 40px;
+}
+.inputfirst{
+  margin-left: 50px;
+}
